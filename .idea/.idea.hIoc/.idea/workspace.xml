@@ -1,0 +1,496 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4beae19e-cd5a-4810-af55-495c5fd92737" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1957795649">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="cs" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="C#" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="cs" value="1930" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="C#" value="1930" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="1343417723">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="cs" value="544" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="C#" value="544" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="cs" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="C#" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hIoc/IocContainer.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="402">
+              <caret line="50" column="9" selection-start-line="50" selection-start-column="9" selection-end-line="50" selection-end-column="9" />
+              <folding>
+                <marker date="1556232467431" expanded="false" signature="6:66" ph="..." />
+                <marker date="1556232467431" expanded="true" signature="82:2124" ph="{...}" />
+                <marker date="1556232467431" expanded="true" signature="127:2122" ph="{...}" />
+                <marker date="1556232467431" expanded="true" signature="301:391" ph="{...}" />
+                <marker date="1556232467431" expanded="true" signature="469:600" ph="{...}" />
+                <marker date="1556232467431" expanded="true" signature="657:752" ph="{...}" />
+                <marker date="1556232467431" expanded="true" signature="803:872" ph="{...}" />
+                <marker date="1556232467431" expanded="true" signature="930:1291" ph="{...}" />
+                <marker date="1556232467431" expanded="true" signature="1090:1230" ph="{...}" />
+                <marker date="1556232467431" expanded="true" signature="1362:1738" ph="{...}" />
+                <marker date="1556232467431" expanded="true" signature="1837:2116" ph="{...}" />
+                <marker date="1556232467431" expanded="true" signature="2009:2106" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/hIoc/UnityContainer.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="21" column="12" lean-forward="true" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
+              <folding>
+                <marker date="1556232644181" expanded="true" signature="34:673" ph="{...}" />
+                <marker date="1556232644181" expanded="true" signature="83:514" ph="{...}" />
+                <marker date="1556232644181" expanded="true" signature="165:264" ph="{...}" />
+                <marker date="1556232644181" expanded="true" signature="363:508" ph="{...}" />
+                <marker date="1556232644181" expanded="true" signature="561:671" ph="{...}" />
+                <marker date="1556232644181" expanded="true" signature="632:665" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Tests/Tests.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="425">
+              <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+              <folding>
+                <marker date="1556230162124" expanded="false" signature="6:48" ph="..." />
+                <marker date="1556230162124" expanded="true" signature="65:2906" ph="{...}" />
+                <marker date="1556230162124" expanded="true" signature="97:109" ph="{...}" />
+                <marker date="1556230162124" expanded="true" signature="155:167" ph="{...}" />
+                <marker date="1556230162124" expanded="true" signature="219:231" ph="{...}" />
+                <marker date="1556230162124" expanded="true" signature="319:423" ph="{...}" />
+                <marker date="1556230162124" expanded="true" signature="397:417" ph="{...}" />
+                <marker date="1556230162124" expanded="true" signature="469:2904" ph="{...}" />
+                <marker date="1556230162124" expanded="true" signature="527:818" ph="{...}" />
+                <marker date="1556230162124" expanded="true" signature="879:1255" ph="{...}" />
+                <marker date="1556230162124" expanded="true" signature="986:1067" ph="{...}" />
+                <marker date="1556230162124" expanded="true" signature="1107:1166" ph="{...}" />
+                <marker date="1556230162124" expanded="true" signature="1324:1761" ph="{...}" />
+                <marker date="1556230162124" expanded="true" signature="1825:2136" ph="{...}" />
+                <marker date="1556230162124" expanded="true" signature="2219:2511" ph="{...}" />
+                <marker date="1556230162124" expanded="true" signature="2583:2898" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hIoc/TypeNotRecognisedException.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="9" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+              <folding>
+                <marker date="1556228873564" expanded="true" signature="87:205" ph="{...}" />
+                <marker date="1556228873564" expanded="true" signature="179:199" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hIoc/RegisteredObject.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="19" column="14" lean-forward="true" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
+              <folding>
+                <marker date="1556232708587" expanded="true" signature="6:67" ph="..." />
+                <marker date="1556232708587" expanded="true" signature="83:1272" ph="{...}" />
+                <marker date="1556232708587" expanded="true" signature="143:668" ph="{...}" />
+                <marker date="1556232708587" expanded="true" signature="300:458" ph="{...}" />
+                <marker date="1556232708587" expanded="true" signature="590:662" ph="{...}" />
+                <marker date="1556232708587" expanded="true" signature="707:1270" ph="{...}" />
+                <marker date="1556232708587" expanded="true" signature="792:918" ph="{...}" />
+                <marker date="1556232708587" expanded="true" signature="1175:1264" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hIoc/IContainer.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="43" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
+              <folding>
+                <marker date="1556228109925" expanded="true" signature="29:294" ph="{...}" />
+                <marker date="1556228109925" expanded="true" signature="63:292" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hIoc/LifeCycle.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+              <folding>
+                <marker date="1556227911064" expanded="true" signature="14:93" ph="{...}" />
+                <marker date="1556227911064" expanded="true" signature="42:91" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>ITypeToResolve</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/hIoc/IContainer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/hIoc/IocContainer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/hIoc/TypeNotRecognisedException.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/hIoc/UnityContainer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/hIoc/LifeCycle.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Tests/Tests.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/hIoc/RegisteredObject.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/hIoc/hIocContainer.cs" />
+        <option value="$PROJECT_DIR$/hIoc/LifeCycle.cs" />
+        <option value="$PROJECT_DIR$/hIoc/TypeNotRecognisedException.cs" />
+        <option value="$PROJECT_DIR$/Tests/Tests.cs" />
+        <option value="$PROJECT_DIR$/hIoc/IocContainer.cs" />
+        <option value="$PROJECT_DIR$/hIoc/IContainer.cs" />
+        <option value="$PROJECT_DIR$/hIoc/UnityContainer.cs" />
+        <option value="$PROJECT_DIR$/hIoc/RegisteredObject.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="244" />
+    <option name="y" value="54" />
+    <option name="width" value="1574" />
+    <option name="height" value="850" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="hIoc" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="hIoc" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="hIoc" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="FileSystemExplorer" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../hUtility" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Attach to Unity Editor.Attach to Unity Editor" />
+      <item itemvalue="Attach to Unity Editor.Attach to Unity Editor &amp; Play" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4beae19e-cd5a-4810-af55-495c5fd92737" name="Default Changelist" comment="" />
+      <created>1556227360156</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1556227360156</updated>
+      <workItem from="1556227361274" duration="2957000" />
+      <workItem from="1556230439477" duration="111000" />
+      <workItem from="1556231784108" duration="946000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="4014000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="244" y="54" width="1574" height="850" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14266843" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" weight="0.32973894" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Statistic" order="11" />
+      <window_info anchor="bottom" id="Unit Tests" order="12" weight="0.32973894" />
+      <window_info anchor="bottom" id="Terminal" order="13" />
+      <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Build" order="15" visible="true" weight="0.32973894" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="LuaJ" order="3" />
+      <window_info anchor="right" id="Errors In Solution" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="6" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/hIoc/MonoBehaviour1.cs" />
+    <entry file="file://$PROJECT_DIR$/hIoc/TypeNotRecognisedException.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="9" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+          <folding>
+            <marker date="1556228873564" expanded="true" signature="87:205" ph="{...}" />
+            <marker date="1556228873564" expanded="true" signature="179:199" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tests/Tests.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+          <folding>
+            <marker date="1556230162124" expanded="false" signature="6:48" ph="..." />
+            <marker date="1556230162124" expanded="true" signature="65:2906" ph="{...}" />
+            <marker date="1556230162124" expanded="true" signature="97:109" ph="{...}" />
+            <marker date="1556230162124" expanded="true" signature="155:167" ph="{...}" />
+            <marker date="1556230162124" expanded="true" signature="219:231" ph="{...}" />
+            <marker date="1556230162124" expanded="true" signature="319:423" ph="{...}" />
+            <marker date="1556230162124" expanded="true" signature="397:417" ph="{...}" />
+            <marker date="1556230162124" expanded="true" signature="469:2904" ph="{...}" />
+            <marker date="1556230162124" expanded="true" signature="527:818" ph="{...}" />
+            <marker date="1556230162124" expanded="true" signature="879:1255" ph="{...}" />
+            <marker date="1556230162124" expanded="true" signature="986:1067" ph="{...}" />
+            <marker date="1556230162124" expanded="true" signature="1107:1166" ph="{...}" />
+            <marker date="1556230162124" expanded="true" signature="1324:1761" ph="{...}" />
+            <marker date="1556230162124" expanded="true" signature="1825:2136" ph="{...}" />
+            <marker date="1556230162124" expanded="true" signature="2219:2511" ph="{...}" />
+            <marker date="1556230162124" expanded="true" signature="2583:2898" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hIoc/IContainer.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="43" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
+          <folding>
+            <marker date="1556228109925" expanded="true" signature="29:294" ph="{...}" />
+            <marker date="1556228109925" expanded="true" signature="63:292" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hIoc/LifeCycle.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+          <folding>
+            <marker date="1556227911064" expanded="true" signature="14:93" ph="{...}" />
+            <marker date="1556227911064" expanded="true" signature="42:91" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hIoc/RegisteredObject.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="19" column="14" lean-forward="true" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
+          <folding>
+            <marker date="1556232708587" expanded="true" signature="6:67" ph="..." />
+            <marker date="1556232708587" expanded="true" signature="83:1272" ph="{...}" />
+            <marker date="1556232708587" expanded="true" signature="143:668" ph="{...}" />
+            <marker date="1556232708587" expanded="true" signature="300:458" ph="{...}" />
+            <marker date="1556232708587" expanded="true" signature="590:662" ph="{...}" />
+            <marker date="1556232708587" expanded="true" signature="707:1270" ph="{...}" />
+            <marker date="1556232708587" expanded="true" signature="792:918" ph="{...}" />
+            <marker date="1556232708587" expanded="true" signature="1175:1264" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hIoc/IocContainer.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="402">
+          <caret line="50" column="9" selection-start-line="50" selection-start-column="9" selection-end-line="50" selection-end-column="9" />
+          <folding>
+            <marker date="1556232467431" expanded="false" signature="6:66" ph="..." />
+            <marker date="1556232467431" expanded="true" signature="82:2124" ph="{...}" />
+            <marker date="1556232467431" expanded="true" signature="127:2122" ph="{...}" />
+            <marker date="1556232467431" expanded="true" signature="301:391" ph="{...}" />
+            <marker date="1556232467431" expanded="true" signature="469:600" ph="{...}" />
+            <marker date="1556232467431" expanded="true" signature="657:752" ph="{...}" />
+            <marker date="1556232467431" expanded="true" signature="803:872" ph="{...}" />
+            <marker date="1556232467431" expanded="true" signature="930:1291" ph="{...}" />
+            <marker date="1556232467431" expanded="true" signature="1090:1230" ph="{...}" />
+            <marker date="1556232467431" expanded="true" signature="1362:1738" ph="{...}" />
+            <marker date="1556232467431" expanded="true" signature="1837:2116" ph="{...}" />
+            <marker date="1556232467431" expanded="true" signature="2009:2106" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hIoc/UnityContainer.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="12" lean-forward="true" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
+          <folding>
+            <marker date="1556232644181" expanded="true" signature="34:673" ph="{...}" />
+            <marker date="1556232644181" expanded="true" signature="83:514" ph="{...}" />
+            <marker date="1556232644181" expanded="true" signature="165:264" ph="{...}" />
+            <marker date="1556232644181" expanded="true" signature="363:508" ph="{...}" />
+            <marker date="1556232644181" expanded="true" signature="561:671" ph="{...}" />
+            <marker date="1556232644181" expanded="true" signature="632:665" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
