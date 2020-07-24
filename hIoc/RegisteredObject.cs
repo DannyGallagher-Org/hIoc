@@ -15,7 +15,7 @@ namespace hIoc
             Instance = gObject;
         }
 
-        public object Instance { get; private set; }
+        public new object Instance { get; private set; }
 
         public void CreateInstance(GameObject gObject, params object[] args)
         {
