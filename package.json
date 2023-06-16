@@ -1,8 +1,8 @@
 {
   "name": "com.houseofwire.hIoc",
   "displayName": "hIoc",
-  "version": "1.0.0",
-  "unity": "2021.3",
+  "version": "1.0.1",
+  "unity": "2018.1",
   "description": "House of Wire Inversionn of Control",
   "keywords": [ "ioc", "houseofwire" ],
   "category": "houseofwire",
