@@ -3,8 +3,8 @@
   "displayName": "hIoc",
   "version": "1.0.1",
   "unity": "2018.1",
-  "description": "House of Wire Inversionn of Control",
-  "keywords": [ "ioc", "houseofwire" ],
+  "description": "House of Wire Inversion of Control",
+  "keywords": [ "code", "ioc", "houseofwire" ],
   "category": "houseofwire",
   "dependencies": {
   }
