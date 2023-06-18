@@ -1,7 +1,7 @@
 {
   "name": "com.houseofwire.hioc",
   "displayName": "hIoc",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "unity": "2018.1",
   "description": "House of Wire Control Inversion",
   "keywords": [ "core", "ioc", "houseofwire" ],
